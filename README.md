@@ -1,3 +1,1 @@
-# Scriptie
-
-## Path Integral Control with history dependent basis functions
+# Path Integral Control with history dependent basis functions
